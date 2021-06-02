@@ -5,7 +5,6 @@ import time
 
 # Replace the URL with your own IPwebcam shot.jpg IP:port
 url='http://192.168.0.103:8080/shot.jpg'
-#cap=cv2.VideoCapture('/home/pi/Downloads/movie1.mp4')
 
 while True:
     # Use urllib to get the image from the IP camera
